@@ -26,15 +26,5 @@
 
 <br><br>
 
-## Contact
-
-<a href="https://www.linkedin.com/in/matheusgouveas" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheusgouveas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/matheus.gouveas" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheus.gouveas-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
-<br><br>
-More at <a href="https://github.com/mgouveas" target="_blank">Github</a>
+## More at <a href="https://github.com/mgouveas" target="_blank">Github</a>
 
