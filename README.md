@@ -21,8 +21,17 @@
 
 <br><br>
 
+## Contact
+
+<a href="https://www.linkedin.com/in/matheusgouveas" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-matheusgouveas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/matheus.gouveas" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-matheus.gouveas-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+
+<br>
+
 👨‍💻 More at [Github](https://github.com/mgouveas)
-<div> 
-  <a href="https://instagram.com/matheus.gouveas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-gouv%C3%AAa-silva-b69618186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
-</div>
+
