@@ -30,8 +30,6 @@
  <img align="center" src="https://img.shields.io/badge/-matheus.gouveas-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
-
-<br>
-
-👨‍💻 More at [Github](https://github.com/mgouveas)
+<br><br>
+More at <a href="https://github.com/mgouveas" target="_blank">Github</a>
 
