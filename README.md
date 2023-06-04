@@ -26,5 +26,6 @@
 
 <br><br>
 
+<!--
 ## More at <a href="https://github.com/mgouveas" target="_blank">Github</a>
-
+-->
