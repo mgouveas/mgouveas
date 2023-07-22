@@ -2,7 +2,7 @@
 
 <br>
 
-### 🚀 Backend developer in training & Offensive Security Enthusiast (Ethical Hacker)
+### 🚀 Backend developer in training & Offensive Security Enthusiast
 
 <br>
 
