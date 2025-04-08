@@ -1,13 +1,14 @@
 # Hi there 👋! I'm Matheus Gouvêa 👨🏽‍💻
 
 
-### 🚀 Backend developer & Offensive Security Enthusiast
+## 🚀 Backend developer & Offensive Security Enthusiast
 
-<br>
-
+  <h4>
     Apaixonado por tecnologia, sou formado em Análise de Sistemas e atualmente me dedico a um curso em Ciência da Computação.
-    
+  </h4>
+  <h4>
     Possuo três anos de experiência em programação, com foco em desenvolvimento backend. Paralelamente, me aprofundo no fascinante mundo do Hacking Ético e Segurança Ofensiva.
+  </h4>
 
 
 ## GitHub Estatísticas
